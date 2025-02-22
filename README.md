@@ -1,6 +1,6 @@
 
 
-##**Legacy QR Generator**##
+## **Legacy QR Generator** ## \n
   Advanced QR Code Generator with Customization & Branding  
  **"This app is powered by Raavans Legacy"**  
 

@@ -1,6 +1,6 @@
 
 
- ** Legacy QR Generator**
+##Legacy QR Generator*##
   Advanced QR Code Generator with Customization & Branding  
  **"This app is powered by Raavans Legacy"**  
 
@@ -25,7 +25,8 @@
 🔹 **Gradient & Logo Support**  
 🔹 **Easy-to-use interface**  
 
-![QR Generator Preview](![Image](https://github.com/user-attachments/assets/1f7f50f7-48c5-4b38-9f46-5378a2ca49ad)) *(Upload a screenshot of your project on GitHub and replace this link.)*
+![QR Generator Preview](![Image](https://github.com/user-attachments/assets/0e820d6c-5d55-4e28-98a2-31fcf6a3680c)
+![Image](https://github.com/user-attachments/assets/3d59d2a4-81aa-4a68-9bc9-391732608fa5)) 
 
 ---
 
@@ -38,8 +39,8 @@
 
 ---
 
-## **🚀 Installation & Usage**  
-### **📌 Prerequisites**
+## ** Installation & Usage**  
+### ** Prerequisites**
 1. **Python** (Ensure Python 3.x is installed)  
 2. **Streamlit** (For running the web app)  
 3. **PIL, QRCode, NumPy** (Required libraries)  
@@ -47,10 +48,10 @@
 ### **🔧 Installation Steps**
 ```bash
 # Clone the Repository
-git clone https://github.com/YOUR_USERNAME/Raavans-Legacy-QR-Generator.git
+git clone https://github.com/Kushagra-Chandel/Legacy-QR-Generator.git
 
 # Change Directory
-cd Raavans-Legacy-QR-Generator
+cd Legacy-QR-Generator
 
 # Install Required Dependencies
 pip install -r requirements.txt
@@ -58,13 +59,12 @@ pip install -r requirements.txt
 # Run the QR Generator
 streamlit run app.py
 ```
-*(Replace `YOUR_USERNAME` with your actual GitHub username.)*
 
 ---
 
 ## **📂 Project Structure**
 ```
-📦 Raavans-Legacy-QR-Generator
+📦 Legacy-QR-Generator
  ┣ 📂 assets/       # Stores logos & additional assets
  ┣ 📂 src/          # Main project files
  ┃ ┣ 📜 qr_generator.py  # Core QR generator logic
@@ -93,10 +93,7 @@ This project is open-source under the **MIT License**.
 ## **📩 Contact & Support**  
 For any queries or feature requests, reach out at:  
 📧 Email: `chandelkushagra@gmail.com`  
-🌐 GitHub: [Your GitHub Profile](https://github.com/YOUR_USERNAME)  
+🌐 GitHub: [Kushagra Chandel](https://github.com/Kushagra-Chandel)  
 
 💡 **Like this project? Give it a ⭐ on GitHub!**  
 
----
-
-Let me know if you want any modifications! 🚀

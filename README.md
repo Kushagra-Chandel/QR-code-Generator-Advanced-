@@ -1,8 +1,8 @@
 
 
-### **📌 Raavans Legacy QR Generator**
-#### 🔥 Advanced QR Code Generator with Customization & Branding  
-🚀 **"This app is powered by Raavans Legacy"**  
+ ** Legacy QR Generator**
+  Advanced QR Code Generator with Customization & Branding  
+ **"This app is powered by Raavans Legacy"**  
 
 ---
 
@@ -25,7 +25,7 @@
 🔹 **Gradient & Logo Support**  
 🔹 **Easy-to-use interface**  
 
-![QR Generator Preview](https://your-image-link-here.com) *(Upload a screenshot of your project on GitHub and replace this link.)*
+![QR Generator Preview](![Image](https://github.com/user-attachments/assets/1f7f50f7-48c5-4b38-9f46-5378a2ca49ad)) *(Upload a screenshot of your project on GitHub and replace this link.)*
 
 ---
 

@@ -25,7 +25,7 @@
 🔹 **Gradient & Logo Support**  
 🔹 **Easy-to-use interface**  
 
-![QR Generator Preview](![Image](https://github.com/user-attachments/assets/0e820d6c-5d55-4e28-98a2-31fcf6a3680c)
+(![Image](https://github.com/user-attachments/assets/0e820d6c-5d55-4e28-98a2-31fcf6a3680c)
 ![Image](https://github.com/user-attachments/assets/3d59d2a4-81aa-4a68-9bc9-391732608fa5)) 
 
 ---

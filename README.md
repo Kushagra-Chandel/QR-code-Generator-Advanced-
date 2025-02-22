@@ -39,8 +39,8 @@
 
 ---
 
-## ** Installation & Usage**  
-## ** Prerequisites**
+## **Installation & Usage**  
+## **Prerequisites**
 1. **Python** (Ensure Python 3.x is installed)  
 2. **Streamlit** (For running the web app)  
 3. **PIL, QRCode, NumPy** (Required libraries)  

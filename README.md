@@ -40,12 +40,12 @@
 ---
 
 ## ** Installation & Usage**  
-### ** Prerequisites**
+## ** Prerequisites**
 1. **Python** (Ensure Python 3.x is installed)  
 2. **Streamlit** (For running the web app)  
 3. **PIL, QRCode, NumPy** (Required libraries)  
 
-### **🔧 Installation Steps**
+## **🔧 Installation Steps**
 ```bash
 # Clone the Repository
 git clone https://github.com/Kushagra-Chandel/Legacy-QR-Generator.git
